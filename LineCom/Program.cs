@@ -5,6 +5,6 @@ int x1 = Convert.ToInt32(Console.ReadLine());
 int x2 = Convert.ToInt32(Console.ReadLine());
 int y1 = Convert.ToInt32(Console.ReadLine());
 int y2 = Convert.ToInt32(Console.ReadLine());
-double Length=((x2 - x1) + (y2 - y1));
+double Length = ((Math.Pow(x2, 2)) - (Math.Pow(x1, 2))) + ((Math.Pow(y2, 2)) - (Math.Pow(y1, 2)));
 Console.WriteLine(Math.Sqrt(Length));
 
