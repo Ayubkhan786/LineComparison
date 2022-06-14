@@ -1,0 +1,15 @@
+C:\Users\Ayub\source\repos\LineCom\LineCom\obj\Debug\net6.0\LineCom.csproj.AssemblyReference.cache
+C:\Users\Ayub\source\repos\LineCom\LineCom\obj\Debug\net6.0\LineCom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayub\source\repos\LineCom\LineCom\obj\Debug\net6.0\LineCom.AssemblyInfoInputs.cache
+C:\Users\Ayub\source\repos\LineCom\LineCom\obj\Debug\net6.0\LineCom.AssemblyInfo.cs
+C:\Users\Ayub\source\repos\LineCom\LineCom\obj\Debug\net6.0\LineCom.csproj.CoreCompileInputs.cache
+C:\Users\Ayub\source\repos\LineCom\LineCom\bin\Debug\net6.0\LineCom.exe
+C:\Users\Ayub\source\repos\LineCom\LineCom\bin\Debug\net6.0\LineCom.deps.json
+C:\Users\Ayub\source\repos\LineCom\LineCom\bin\Debug\net6.0\LineCom.runtimeconfig.json
+C:\Users\Ayub\source\repos\LineCom\LineCom\bin\Debug\net6.0\LineCom.dll
+C:\Users\Ayub\source\repos\LineCom\LineCom\bin\Debug\net6.0\LineCom.pdb
+C:\Users\Ayub\source\repos\LineCom\LineCom\obj\Debug\net6.0\LineCom.dll
+C:\Users\Ayub\source\repos\LineCom\LineCom\obj\Debug\net6.0\refint\LineCom.dll
+C:\Users\Ayub\source\repos\LineCom\LineCom\obj\Debug\net6.0\LineCom.pdb
+C:\Users\Ayub\source\repos\LineCom\LineCom\obj\Debug\net6.0\LineCom.genruntimeconfig.cache
+C:\Users\Ayub\source\repos\LineCom\LineCom\obj\Debug\net6.0\ref\LineCom.dll
